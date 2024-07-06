@@ -22,7 +22,9 @@
 }
 
 .index_vertical_line {
-    border-top: thick solid #ff0000;
+    border-top-width: 2px;
+    border-top-color: black;
+    border-top-style: solid;
 }
 
 .index_title_set {
