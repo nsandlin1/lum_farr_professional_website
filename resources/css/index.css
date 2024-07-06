@@ -25,12 +25,12 @@
     align-items: center;
     justify-content: center;
     width: 30%;
+    margin-top: 35vh;
     margin-left: 11vw;
 }
 
 .index_title_set_wrapper {
     height: 100vh;
     display: flex;
-    align-items: center;
 }
 
