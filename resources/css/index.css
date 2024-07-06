@@ -23,6 +23,7 @@
 
 .index_vertical_line {
     width: 100%;
+    height: 2px;
     border-top-width: 2px;
     border-top-color: black;
     border-top-style: solid;
