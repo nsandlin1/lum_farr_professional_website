@@ -25,5 +25,10 @@
     align-items: center;
     justify-content: center;
     width: 30%;
-    left: 15%;
+    margin-left: 15vw;
 }
+
+.index_title_set_wrapper {
+    height: 100vh;
+}
+
