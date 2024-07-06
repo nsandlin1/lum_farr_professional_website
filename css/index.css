@@ -17,6 +17,14 @@
     color: black;
 }
 
+.index_navigation_menu_element:hover {
+    text-decoration: underline;
+}
+
+.index_navigation_menu_element:active {
+    color: rgb(142, 130, 130);
+}
+
 .index_title {
     display: flex;
     font-style: "Times New Roman";
@@ -44,6 +52,10 @@
     margin-left: 11vw;
 }
 
+.index_body {
+    margin: 0;
+}
+
 .index_title_set_wrapper {
     height: 100vh;
     display: flex;
@@ -53,4 +65,5 @@
     height: 25vh;
     width: 25vh;
     border-radius: 25vh;
+    object-fit: cover;
 }
