@@ -1,13 +1,17 @@
 .index_navigation_menu {
     list-style-type: none;
+    justify-content: center;
 }
 
 .index_navigation_menu_element {
     text-decoration: none;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 
 .index_title {
-    font-style: "Times New Roman"
+    font-style: "Times New Roman";
+    justify-content: center;
 }
 
 .index_title_set {
