@@ -21,6 +21,10 @@
     margin: 0;
 }
 
+.index_vertical_line {
+    border-top: thick solid #ff0000;
+}
+
 .index_title_set {
     display: flex;
     flex-direction: column;
