@@ -3,9 +3,14 @@
 }
 
 .index_navigation_menu_element {
-    
+    text-decoration: none;
 }
 
 .index_title {
     font-style: "Times New Roman"
+}
+
+.index_title_set {
+    width: 30%;
+    justify-content: center;
 }
