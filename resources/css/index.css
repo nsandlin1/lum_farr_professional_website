@@ -9,6 +9,8 @@
     margin-top: 7px;
     margin-bottom: 7px;
     justify-content: center;
+    font-weight: 700;
+    color: black;
 }
 
 .index_title {
@@ -19,5 +21,11 @@
 
 .index_title_set {
     width: 30%;
+    justify-content: center;
+}
+
+.index_title_set_wrapper {
+    display: flex;
+    align-items: center;
     justify-content: center;
 }
