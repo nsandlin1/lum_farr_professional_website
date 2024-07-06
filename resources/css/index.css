@@ -16,6 +16,7 @@
 .index_title {
     display: flex;
     font-style: "Times New Roman";
+    font-size: 12vh;
     justify-content: center;
 }
 
