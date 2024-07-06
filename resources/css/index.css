@@ -1,15 +1,18 @@
 .index_navigation_menu {
     list-style-type: none;
-    justify-content: center;
+    padding: 0;
 }
 
 .index_navigation_menu_element {
+    display: flex;
     text-decoration: none;
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 7px;
+    margin-bottom: 7px;
+    justify-content: center;
 }
 
 .index_title {
+    display: flex;
     font-style: "Times New Roman";
     justify-content: center;
 }
