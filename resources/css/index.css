@@ -46,5 +46,6 @@
 
 .index_profile_image {
     height: 25vh;
-    width: 100%;
+    width: 25vh;
+    border-radius: 25px;
 }
