@@ -17,6 +17,7 @@
     display: flex;
     font-style: "Times New Roman";
     justify-content: center;
+    align-items: center;
     font-size: 5vw;
     margin: 0;
 }
