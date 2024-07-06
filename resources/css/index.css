@@ -16,12 +16,13 @@
 .index_title {
     display: flex;
     font-style: "Times New Roman";
+    justify-content: center;
     font-size: 5em;
     margin: 0;
 }
 
 .index_vertical_line {
-    max-width: 33vh;
+    max-width: 37vh;
     width: 100%;
     height: 2px;
     border-top-width: 2px;
