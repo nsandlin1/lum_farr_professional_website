@@ -18,14 +18,11 @@
     font-style: "Times New Roman";
     justify-content: center;
 }
-/* 
-.index_title_set {
-    justify-content: center;
-} */
 
-.index_title_set_wrapper {
+.index_title_set {
     display: flex;
     align-items: center;
     justify-content: center;
     width: 30%;
+    left: 15%;
 }
