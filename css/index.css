@@ -50,7 +50,7 @@
     margin-top: 20vh;
     align-items: center;
     margin-left: 11vw;
-    margin-bottom: 20vh;
+    height: fit-content;
     padding: 3vh;
     border-color: white;
     border-width: 5px;
@@ -60,6 +60,7 @@
 }
 
 .index_body {
+    display: flex;
     margin: 0;
     background-color: #141619;
 }
@@ -74,4 +75,45 @@
     width: 25vh;
     border-radius: 25vh;
     object-fit: cover;
+}
+
+.index_main {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.index_introduction {
+    display: flex;
+    flex-direction: column;
+    color: white;
+    font-size: xxx-large;
+    margin-top: 15vh;
+    margin-left: 10vw;
+}
+
+.index_introduction_paragraph {
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.index_contact_paragraph {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    font-size: large;
+}
+
+.index_media_logo {
+    height: 30px;
+    width: 30px;
+}
+
+.index_contacts {
+    display: flex;
+    margin-left: auto;
+    padding: 5px;
+}
+
+.index_media_logo {
+    margin-left: 5px;
 }
